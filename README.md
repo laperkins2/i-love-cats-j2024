@@ -1,9 +1,28 @@
-# Client Server Demo
+# I Love Cats
 
-This demo can be built out in Replit and demonstrate how the file server sends HTML, IMG, CSS, and JS files to the client. Then how the browser assembles them.
+## About
 
-Don't worry about grokking all details at once. But you will be able to see in the dev tools how the network pulls down the files and how the document changes as the files are created.
+This is a website about cats. It has a picture of a cat using an img tag. It also has a CSS for style and JavaScript to add an alert on click.
 
-To recreate this, you can start with HTML then add the image, CSS and finally JS to demo this.
+## Built With
 
-Note: everything is simplified as much as possible. HTML elements are not nested. ID is used to access elements in JS and CSS.
+* HTML
+* CSS
+* JavaScript
+
+## Roadmap
+
+- [x] Headers (h1, h2)
+- [x] CSS background
+- [x] JavaScript alert
+- [ ] Three changes with commits
+
+## Contact
+
+Author: Robert McCreary robert.mccreary@codex.academy
+
+## Acknowledgements
+
+* [W3 Schools HTML Basics](https://www.w3schools.com/html/html_basic.asp)
+* [W3 Schools JS alert](https://www.w3schools.com/jsref/met_win_alert.asp)
+* [W3 Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
